@@ -15,8 +15,7 @@ public class SoundEffectsHelper : MonoBehaviour
 	public AudioClip laserSound;
 	public AudioClip slinkSound;
 	public AudioClip levelSound;
-	
-	
+
 	void Awake()
 	{
 		// Register the singleton
